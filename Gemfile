@@ -11,3 +11,4 @@ gem 'rvm-capistrano'
 gem 'capistrano_colors'
 gem 'pony'
 gem "awesome_print"
+gem 'foreman'

@@ -1,1 +1,1 @@
-rvm use 2.2.2@pupca --create
+rvm use default@pupca --create
